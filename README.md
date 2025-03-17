@@ -1,3 +1,3 @@
-### 🍒 Hello, I'm Jasmine!
+### 🍒 hi, i'm jasmine
 
-💻 This is a seperate Github account for me to store some past coursework
+this is a seperate Github account for me to store some past coursework
